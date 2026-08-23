@@ -12,7 +12,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "latest",
+    "axios": "latest"
   },
   "engines": {
     "node": ">=14"
